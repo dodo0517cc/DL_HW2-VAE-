@@ -23,5 +23,4 @@ MNIST dataset:
 
 ### Sample the prior p(z) and use the latent codes z to synthesize some examples:
 
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/77607182/178141218-8e2f3d05-eff3-4042-8a08-d384c2334ada.png">
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/77607182/178141227-5b14bbd2-66b4-4f71-b09c-2844bdf3ea4f.png">
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/77607182/178141218-8e2f3d05-eff3-4042-8a08-d384c2334ada.png"><img width="200" alt="image" src="https://user-images.githubusercontent.com/77607182/178141227-5b14bbd2-66b4-4f71-b09c-2844bdf3ea4f.png">
